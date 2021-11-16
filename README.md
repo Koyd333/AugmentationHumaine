@@ -1,1 +1,1 @@
-# AugmentationHumaine
+# Blog statique pour sociét numérique
